@@ -1,5 +1,5 @@
 # Refund Policy for Framer Components
-## Author: **Krafty UX** [Krafty UX](https://framer.link/DEqY8D1)
+## Author: [Krafty UX](https://framer.link/DEqY8D1)
 
 ---
 
