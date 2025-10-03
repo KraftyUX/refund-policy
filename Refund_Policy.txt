@@ -1,0 +1,53 @@
+1. No Refunds for Digital Products
+
+KR Testimonials is a digital product with a forking system, meaning each purchase grants lifetime access to the component and its updates.
+
+Refunds are not offered after purchase, as the component can be instantly downloaded and forked (which could enable abuse, such as redistribution or duplicate claims).
+
+2. Pre-Purchase Support
+
+Unsure if this component fits your needs? Contact us before purchasing at kraftyux@gmail.com. We’re happy to:
+
+Share a demo video or sandbox preview.
+
+Answer technical questions.
+
+Clarify use cases or licensing terms.
+
+3. Exceptions (Extremely Rare)
+
+Refunds may be considered only if:
+
+You accidentally purchased duplicates (e.g., due to a payment error). Proof of duplicate charges is required.
+
+The component fails to work entirely due to a verifiable bug (e.g., crashes in Framer). Proof of attempts to resolve the issue with our support team is required.
+
+How to Request an Exception: Email kraftyux@gmail.comwithin 3 days of purchase with:
+
+Your order ID (from Lemon Squeezy).
+
+A detailed description of the issue (e.g., screenshots, error logs).
+
+Proof of prior support attempts (if applicable).
+
+Resolution Time: 3–5 business days.
+
+4. Anti-Abuse Measures
+
+To prevent abuse of the forking system:
+
+One license per purchase
+
+No Refunds for Misuse: Refunds will not be granted if the component is used in violation of our licensing terms (e.g., redistribution).
+
+5. Framer Marketplace Compliance
+
+This policy aligns with Framer’s Terms of Service. For disputes, Framer’s guidelines take precedence.
+
+6. Contact Us
+
+Email: kraftyux@gmail.com
+
+Discord: kraftyux
+
+Support Hours: Weekdays, 9 AM–5 PM [UTC +1]
